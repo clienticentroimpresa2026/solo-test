@@ -1,0 +1,5 @@
+SOLO Prototype 0.1
+1) PC: apri index.html con Chrome/Edge, premi ATTIVA SOLO e usa i due pulsanti di simulazione.
+2) Smartphone: copia/apri index.html. L'interfaccia funziona, ma l'accesso all'accelerometro può richiedere HTTPS e permessi del browser.
+3) Per il test affidabile a schermo spento servirà poi la versione Android nativa/ibrida.
+NOTA: prototipo sperimentale; non è un dispositivo di sicurezza certificato e non invia allarmi reali.
